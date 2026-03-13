@@ -15,3 +15,5 @@ Report all bugs to my <c-5865F2>Discord</c> (@DominoKiddoo)
 
 ## <cy>Credits</c>
 Thanks to <c-527D6C>Alphalaneous</c> for the window-icon changing code.
+
+Windows 7 border art made by [luvpngs on Tumblr](https://www.tumblr.com/luvpngs/734459906510487552/windows-7-borders-made-by-me-like-or-reblog-if)
