@@ -42,6 +42,9 @@
 		}
 	},
 
-	"source": "https://github.com/DominoKiddoo/window-customizer-gdmod"
+	"links": {
+		"source": "https://github.com/DominoKiddoo/window-customizer-gdmod"
+	}
+	
 
 }
