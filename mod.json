@@ -1,0 +1,47 @@
+{
+	"geode": "5.3.0",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "dominodev.window-customizer",
+	"name": "Window Customizer",
+	"version": "v1.0.0",
+	"developer": "dominodev",
+	"description": "Customize the window title, and icon!",
+	"dependencies": {
+		"geode.node-ids": ">=v1.20.0"
+	},
+
+	"settings": {
+		"window-title": {
+			"type": "string",
+			"default": "Geometry Dash",
+			"description": "The <co>title</c> of the <cb>GD window</c>",
+			"name": "Window Title"
+		},
+
+		"window-icon":{
+			"type": "file",
+			"description": "<co>Icon</c> for the <cb>GD window</c> to use. Must be a <cg>.ico</c> file. You can use [this website](https://www.icoconverter.com/) to convert your image to a <cg>.ico</c>",
+			"default": "",
+			"name": "Window Icon",
+			"control": {
+				"dialog": "open",
+				"filters": [
+					{
+						"files": ["*.ico"],
+						"description": "icon files"
+					}
+				]
+			}
+
+
+		}
+	},
+
+	"source": "https://github.com/DominoKiddoo/window-customizer-gdmod"
+
+}
